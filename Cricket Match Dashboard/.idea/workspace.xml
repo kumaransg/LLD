@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5dfafbd-875f-4849-9c74-70d36617c00d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uL5S7rvKVkdsmbPCOqRrzgC3rC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CricketDashboardApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CricketDashboardApplication" />
+      <module name="Cricket Match Dashboard" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5dfafbd-875f-4849-9c74-70d36617c00d" name="Default Changelist" comment="" />
+      <created>1624432025626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624432025626</updated>
+      <workItem from="1624432028402" duration="12102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="126" key="#CricketDashboardApplication" timestamp="1624441521576">
+      <screen x="0" y="23" width="1536" height="860" />
+    </state>
+    <state x="443" y="126" key="#CricketDashboardApplication/0.23.1536.860@0.23.1536.860" timestamp="1624441521576" />
+    <state x="581" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1624445018726">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="581" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1536.960@0.0.1536.960" timestamp="1624445018726" />
+    <state x="581" y="177" key="#com.intellij.ide.util.MemberChooser/0.23.1536.860@0.23.1536.860" timestamp="1624439155952" />
+    <state width="1536" height="272" key="GridCell.Tab.0.bottom" timestamp="1624445757773">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="272" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1624445757773" />
+    <state width="1536" height="232" key="GridCell.Tab.0.bottom/0.23.1536.860@0.23.1536.860" timestamp="1624444449796" />
+    <state width="1536" height="272" key="GridCell.Tab.0.center" timestamp="1624445757772">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="272" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1624445757772" />
+    <state width="1536" height="232" key="GridCell.Tab.0.center/0.23.1536.860@0.23.1536.860" timestamp="1624444449795" />
+    <state width="1536" height="272" key="GridCell.Tab.0.left" timestamp="1624445757771">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="272" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1624445757771" />
+    <state width="1536" height="232" key="GridCell.Tab.0.left/0.23.1536.860@0.23.1536.860" timestamp="1624444449795" />
+    <state width="1536" height="272" key="GridCell.Tab.0.right" timestamp="1624445757772">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="272" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1624445757772" />
+    <state width="1536" height="232" key="GridCell.Tab.0.right/0.23.1536.860@0.23.1536.860" timestamp="1624444449796" />
+    <state width="1536" height="287" key="GridCell.Tab.1.bottom" timestamp="1624442888968">
+      <screen x="0" y="23" width="1536" height="860" />
+    </state>
+    <state width="1536" height="287" key="GridCell.Tab.1.bottom/0.23.1536.860@0.23.1536.860" timestamp="1624442888968" />
+    <state width="1536" height="287" key="GridCell.Tab.1.center" timestamp="1624442888968">
+      <screen x="0" y="23" width="1536" height="860" />
+    </state>
+    <state width="1536" height="287" key="GridCell.Tab.1.center/0.23.1536.860@0.23.1536.860" timestamp="1624442888968" />
+    <state width="1536" height="287" key="GridCell.Tab.1.left" timestamp="1624442888967">
+      <screen x="0" y="23" width="1536" height="860" />
+    </state>
+    <state width="1536" height="287" key="GridCell.Tab.1.left/0.23.1536.860@0.23.1536.860" timestamp="1624442888967" />
+    <state width="1536" height="287" key="GridCell.Tab.1.right" timestamp="1624442888968">
+      <screen x="0" y="23" width="1536" height="860" />
+    </state>
+    <state width="1536" height="287" key="GridCell.Tab.1.right/0.23.1536.860@0.23.1536.860" timestamp="1624442888968" />
+    <state x="269" y="92" key="SettingsEditor" timestamp="1624435767352">
+      <screen x="0" y="23" width="1536" height="860" />
+    </state>
+    <state x="269" y="92" key="SettingsEditor/0.23.1536.860@0.23.1536.860" timestamp="1624435767352" />
+  </component>
+</project>
