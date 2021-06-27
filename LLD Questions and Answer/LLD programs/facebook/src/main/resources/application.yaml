@@ -1,0 +1,22 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+logging:
+  file: logs/facebook.log
+  level:
+    #org.springframework.web: DEBUG
+#    guru.springframework.controllers: DEBUG
+    org:
+      springframework:
+        data:
+          cassandra:
+            core:
+              cql:
+                CqlTemplate: DEBUG
+    org.hibernate: DEBUG
+
+#  pattern:
+#    console: '%d %-5level %logger : %msg%n'
+#    file: '%d %-5level [%thread] %logger : %msg%n'

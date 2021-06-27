@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb421e27-5ff2-42f1-ab63-223e2bf18179" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ti9sh4yLICc9XRnpd7L3xNTWxx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TextEditorApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App.TextEditorApplication" />
+      <module name="TextEditor" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb421e27-5ff2-42f1-ab63-223e2bf18179" name="Default Changelist" comment="" />
+      <created>1623241250932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623241250932</updated>
+      <workItem from="1623241257604" duration="6930000" />
+      <workItem from="1623256580272" duration="363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="153" key="#TextEditorApplication" timestamp="1623244145538">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="443" y="153" key="#TextEditorApplication/0.0.1536.960@0.0.1536.960" timestamp="1623244145538" />
+    <state x="581" y="192" key="#com.intellij.ide.util.MemberChooser" timestamp="1623243893426">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="581" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1536.960@0.0.1536.960" timestamp="1623243893426" />
+    <state x="471" y="242" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1623243583700">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="471" y="242" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.960@0.0.1536.960" timestamp="1623243583700" />
+    <state width="1536" height="336" key="GridCell.Tab.0.bottom" timestamp="1623248209559">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="336" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1623248209559" />
+    <state width="1536" height="336" key="GridCell.Tab.0.center" timestamp="1623248209558">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="336" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1623248209558" />
+    <state width="1536" height="336" key="GridCell.Tab.0.left" timestamp="1623248209557">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="336" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1623248209557" />
+    <state width="1536" height="336" key="GridCell.Tab.0.right" timestamp="1623248209558">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="336" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1623248209558" />
+    <state width="1536" height="336" key="GridCell.Tab.1.bottom" timestamp="1623248209561">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="336" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1623248209561" />
+    <state width="1536" height="336" key="GridCell.Tab.1.center" timestamp="1623248209560">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="336" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1623248209560" />
+    <state width="1536" height="336" key="GridCell.Tab.1.left" timestamp="1623248209559">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="336" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1623248209559" />
+    <state width="1536" height="336" key="GridCell.Tab.1.right" timestamp="1623248209560">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1536" height="336" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1623248209560" />
+    <state x="433" y="211" width="670" height="676" key="search.everywhere.popup" timestamp="1623246756702">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="433" y="211" width="670" height="676" key="search.everywhere.popup/0.0.1536.960@0.0.1536.960" timestamp="1623246756702" />
+  </component>
+</project>
