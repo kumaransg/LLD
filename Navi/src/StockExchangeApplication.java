@@ -27,7 +27,7 @@ public class StockExchangeApplication {
     }
 
     private static void getSellOrderFromFile(ArrayList<SellOrder> list) throws FileNotFoundException {
-        File ordersFile = new File("/Users/gowtkum/Documents/Pratice_LLD/Navi/src/data.txt");
+        File ordersFile = new File("data.txt");
         Scanner scanner = new Scanner(ordersFile);
         while (scanner.hasNextLine()) {
             String[] data = scanner.nextLine().split(" ");
