@@ -1,1 +1,0 @@
-CREATE TABLE IF NOT EXISTS entity_names (person_id text, PRIMARY KEY (person_id));
