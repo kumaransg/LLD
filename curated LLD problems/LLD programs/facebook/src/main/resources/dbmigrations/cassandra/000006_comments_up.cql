@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS comments (comment_id uuid, comment text, comment_liked_by frozen<comment_liked_by_type>, comment_posted_by frozen<comment_posted_by_type>, comment_posted_on frozen<comment_posted_on_type>, replies frozen<comment_type>, PRIMARY KEY (comment_id));
