@@ -1,0 +1,18 @@
+User
+    -userid
+    -name
+    -email
+    -mobNumber
+    -Map<Users,float> friends
+    -showExpenseOfFriends()
+    -showExpense()
+
+
+Expense(I)
+    -split
+
+Exact implements Expense
+
+Equal implements Expense
+
+
