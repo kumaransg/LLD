@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Bowling Alley\obj\Debug\netcoreapp3.1\Bowling Alley.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Bowling Alley\obj\Debug\netcoreapp3.1\Bowling Alley.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Bowling Alley\obj\Debug\netcoreapp3.1\Bowling Alley.AssemblyInfo.cs
+C:\Users\HP\source\repos\Bowling Alley\obj\Debug\netcoreapp3.1\Bowling Alley.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Bowling Alley\bin\Debug\netcoreapp3.1\Bowling Alley.exe
+C:\Users\HP\source\repos\Bowling Alley\bin\Debug\netcoreapp3.1\Bowling Alley.deps.json
+C:\Users\HP\source\repos\Bowling Alley\bin\Debug\netcoreapp3.1\Bowling Alley.runtimeconfig.json
+C:\Users\HP\source\repos\Bowling Alley\bin\Debug\netcoreapp3.1\Bowling Alley.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Bowling Alley\bin\Debug\netcoreapp3.1\Bowling Alley.dll
+C:\Users\HP\source\repos\Bowling Alley\bin\Debug\netcoreapp3.1\Bowling Alley.pdb
+C:\Users\HP\source\repos\Bowling Alley\obj\Debug\netcoreapp3.1\Bowling Alley.dll
+C:\Users\HP\source\repos\Bowling Alley\obj\Debug\netcoreapp3.1\Bowling Alley.pdb
+C:\Users\HP\source\repos\Bowling Alley\obj\Debug\netcoreapp3.1\Bowling Alley.genruntimeconfig.cache
