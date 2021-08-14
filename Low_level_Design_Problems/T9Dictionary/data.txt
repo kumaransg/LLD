@@ -1,0 +1,1 @@
+It allows words to be entered by a single keypress for each letter
