@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group 'com.gb.parkinglot'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 11
+targetCompatibility = 11
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly 'org.projectlombok:lombok:1.18.12'
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.10'
+    annotationProcessor 'org.projectlombok:lombok:1.18.12'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.3.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.3.1'
+    // https://mvnrepository.com/artifact/org.mockito/mockito-junit-jupiter
+    testCompile group: 'org.mockito', name: 'mockito-junit-jupiter', version: '3.3.3'
+
+}
