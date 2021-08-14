@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.hibernate.validator:hibernate-validator:6.1.7.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/hibernate/validator/hibernate-validator/6.1.7.Final/hibernate-validator-6.1.7.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/hibernate/validator/hibernate-validator/6.1.7.Final/hibernate-validator-6.1.7.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/hibernate/validator/hibernate-validator/6.1.7.Final/hibernate-validator-6.1.7.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

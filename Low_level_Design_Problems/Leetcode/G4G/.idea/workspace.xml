@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6be006c3-25f2-4dc0-8335-3978f3927446" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Test/Itesting2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Itesting2/test33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Itesting2/test34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Itesting2/test35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeAndLadder/Snake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeAndLadder/SnakeAndLadderBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeAndLadder/SnakeAndLadderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1148">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SystemDesign/LibraryManagementSystem/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/Itesting2/Engine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#332#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/Itesting2/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test/Itesting2/test33.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <folding>
+                <element signature="e#79#80#0" expanded="true" />
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/Itesting2/test34.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/Itesting2/test35.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding>
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Snake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>free</find>
+      <find>map</find>
+      <find>alie</find>
+      <find>alien</find>
+      <find>initialNumberOfPlayers</find>
+      <find>getEleme</find>
+      <find>main</find>
+      <find>getNextDestionationFloor</find>
+      <find>lend</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/uditagarwal/algoritms/exceptions/InvalidNodeException.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/uditagarwal/algoritms/DoublyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/uditagarwal/cache/factories/CacheFactory.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/uditagarwal/algoritms/DoublyLinkedListNode.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/uditagarwal/cache/policies/LRUEvictionPolicy.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/uditagarwal/Main.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/uditagarwal/cache/storage/Storage.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/uditagarwal/cache/storage/HashMapBasedStorage.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/uditagarwal/cache/Cache.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/Main.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/cache/policies/LRUEvictionPolicy.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/PaymentMethod.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/PaymentDetails.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/Item.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/Location.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/Payment.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/PaymentService.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/PaymentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/LoggingServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/InventoryService.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/InventoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/MechanicalServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/MechanicalService.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/LoggingService.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/VendingMachineFactory.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/Driver.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/VendingMachine/VendingMachine.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign/Elevator.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign/Constants.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign/t.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign/IElevatorController.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign/ElevatorEventListener.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign/ElevatorController.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Cell.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Snake.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/SnakeGame2/CellType.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/SnakeGame2/FoodInterface.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Game.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Board.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/SnakeGame2/BoardInterface.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/SnakeGame2/FoodService.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Game2.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign2/ecs/IElevator.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign2/ecs/IElevatorControlSystem.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign2/simulate/ElevatorSimulation.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign2/ecs/impl/ElevatorControlSystem.java" />
+        <option value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign2/ecs/impl/Elevator.java" />
+        <option value="$PROJECT_DIR$/src/Test/Itesting2/test35.java" />
+        <option value="$PROJECT_DIR$/src/Test/Itesting2/test34.java" />
+        <option value="$PROJECT_DIR$/src/Test/Itesting2/main.java" />
+        <option value="$PROJECT_DIR$/src/Test/Itesting2/test33.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="G4G" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G4G" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="G4G" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G4G" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="G4G" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G4G" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SystemDesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="G4G" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G4G" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="G4G" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G4G" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Itesting2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SystemDesign.VendingMachine" />
+      <recent name="SystemDesign.ParkingLot2" />
+      <recent name="SystemDesign.Practice" />
+      <recent name="SystemDesign.LibraryManagementSystem" />
+      <recent name="SystemDesign.ParkingLot" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SystemDesign.ParkingLot2" />
+      <recent name="SystemDesign.Practice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/SystemDesign/ElevatorDesign2" />
+      <recent name="$PROJECT_DIR$/src/SystemDesign/ParkingLot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Game" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystemDesign.SnakeGame.SnakeGame.Game" />
+      <module name="G4G" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Array.topKfrequentElements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Itesting2.main" />
+      <module name="G4G" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SystemDesign.SnakeGame.OnlineBookReaderSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="missingElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="G4G" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Array" />
+      <option name="MAIN_CLASS_NAME" value="Array.missingElement" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="JUnit.missingElement" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="JUnit.missingElement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6be006c3-25f2-4dc0-8335-3978f3927446" name="Default Changelist" comment="" />
+      <created>1574820587523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574820587523</updated>
+      <workItem from="1574820588834" duration="861000" />
+      <workItem from="1575755334853" duration="1877000" />
+      <workItem from="1576366056397" duration="17035000" />
+      <workItem from="1578181867829" duration="18759000" />
+      <workItem from="1578965638375" duration="4964000" />
+      <workItem from="1579072554480" duration="11868000" />
+      <workItem from="1579222754863" duration="3590000" />
+      <workItem from="1579310107539" duration="27293000" />
+      <workItem from="1579836466606" duration="8197000" />
+      <workItem from="1580091268203" duration="2978000" />
+      <workItem from="1580239738618" duration="2643000" />
+      <workItem from="1580269341158" duration="12118000" />
+      <workItem from="1580614364225" duration="47799000" />
+      <workItem from="1582580244113" duration="6968000" />
+      <workItem from="1582682583503" duration="533000" />
+      <workItem from="1582740398321" duration="5914000" />
+      <workItem from="1583192525183" duration="333000" />
+      <workItem from="1583271165710" duration="9798000" />
+      <workItem from="1583630463943" duration="2040000" />
+      <workItem from="1584157504454" duration="21000" />
+      <workItem from="1584222129764" duration="1860000" />
+      <workItem from="1584582165281" duration="136000" />
+      <workItem from="1584908884757" duration="2254000" />
+      <workItem from="1585082452893" duration="2674000" />
+      <workItem from="1585281473688" duration="619000" />
+      <workItem from="1585371292161" duration="567000" />
+      <workItem from="1585414051388" duration="436000" />
+      <workItem from="1585454801856" duration="98000" />
+      <workItem from="1585454960211" duration="707000" />
+      <workItem from="1585688586545" duration="601000" />
+      <workItem from="1585784187787" duration="452000" />
+      <workItem from="1585847218709" duration="1341000" />
+      <workItem from="1586035160418" duration="1686000" />
+      <workItem from="1586408800766" duration="1528000" />
+      <workItem from="1586460611385" duration="1442000" />
+      <workItem from="1586994477023" duration="1585000" />
+      <workItem from="1587600655304" duration="580000" />
+      <workItem from="1587685840245" duration="16000" />
+      <workItem from="1587953789463" duration="34895000" />
+      <workItem from="1589393407596" duration="3418000" />
+      <workItem from="1589611878825" duration="3073000" />
+      <workItem from="1590027677512" duration="832000" />
+      <workItem from="1590380730283" duration="1635000" />
+      <workItem from="1590429334990" duration="102000" />
+      <workItem from="1590465855971" duration="2032000" />
+      <workItem from="1590549373683" duration="1028000" />
+      <workItem from="1590784629892" duration="785000" />
+      <workItem from="1590964261959" duration="2152000" />
+      <workItem from="1591470699297" duration="1015000" />
+      <workItem from="1591752316369" duration="875000" />
+      <workItem from="1591807664008" duration="3174000" />
+      <workItem from="1592341580395" duration="2630000" />
+      <workItem from="1592435874207" duration="3495000" />
+      <workItem from="1592963715358" duration="366000" />
+      <workItem from="1594229439672" duration="74000" />
+      <workItem from="1596066265256" duration="4489000" />
+      <workItem from="1597095317760" duration="2706000" />
+      <workItem from="1597782466688" duration="1934000" />
+      <workItem from="1597784470394" duration="254000" />
+      <workItem from="1597784959329" duration="616000" />
+      <workItem from="1598222720117" duration="5007000" />
+      <workItem from="1598547640397" duration="6572000" />
+      <workItem from="1598563818725" duration="1590000" />
+      <workItem from="1598894732622" duration="47537000" />
+    </task>
+    <task id="LOCAL-00001" summary="SDE">
+      <created>1581996335869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581996335869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_checkNull - 2020.01.15 at 18h 56m 54s.xml">
+      <configuration name="test.checkNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2020.01.15 at 18h 57m 02s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2020.01.15 at 18h 58m 16s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2020.01.15 at 18h 59m 26s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2020.01.15 at 19h 00m 49s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_checkCounter - 2020.01.15 at 19h 01m 57s.xml">
+      <configuration name="test.checkCounter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2020.01.15 at 19h 02m 01s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2020.01.16 at 22h 26m 01s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.25 at 14h 50m 09s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.02.25 at 14h 59m 25s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="336457000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283767" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.3370508" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5340768" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32961586" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4985694" weight="0.32713756" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143063" side_tool="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32713756" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SDE" />
+    <option name="LAST_COMMIT_MESSAGE" value="SDE" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Queue/queueReverse.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Queue/maxSumArray.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Queue/maxSumArray.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SlidingWindow/SlidingWindowMax.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/DecodeString.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dp/bstTimetoBuySellCoolDown.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dp/partitionSubSetstoSum.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/sortList.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/sortList.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/LargestNumber.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/LargestNumber.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/subArraySum0.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/subArraySum0.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/subArraySum0.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/compareLinkedList.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/compareLinkedList.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/test.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/DesignLinkedList.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/DesignLinkedList.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/kClosestPointstoOrigin.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/islandPerimeter.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/MinimumTimeDifference.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/MinimumTimeDifference.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MworksTest/max.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MworksTest/max.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MworksTest/max.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CTC/Medium/factorialZeroes.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CTC/Medium/factorialZeroes.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SystemDesign/SnakeGame/Game.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/PathmaxMinValue.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/wordLadder.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/wordLadder.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Test.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sorting/MergeSort/MergeSort.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/divisibleby60.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/missingElement.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/missingElement.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BST/BurnNode.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BST/BurnNode.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BST/BurnNode.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/GumballProblem.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/GumballProblem.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/GumballProblem.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dfs/findMinLen.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dfs/findMinLen.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/findMaximum.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/findMaximum.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/LastSubstringinLexoOrder.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/awardCaps.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/StrangeSorting.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview/HashMap/MapReduction/d.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/GoldMan/MaxCommonality.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/GoldMan/lengthofCycle.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BST/minSum.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dp/noOfPaths.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/findArtifacts.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/findArtifacts.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/sumLinkedList.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Altimetriktest.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/FinalClassExample.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/AccountsMerge721.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/AccountsMerge721.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Math/addNumbersWithoutOperations.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/PatternMatching.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/Main.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SystemDesign/LowLevelCacheDesign/main/java/com/Main.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SystemDesign/VendingMachine/Driver.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SystemDesign/VendingMachine/VendingMachine.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Game2.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/dp/longestStringChain.java</url>
+          <line>7</line>
+          <properties class="dp.longestStringChain" method="longestStrChain">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/G4G$SolutionTest.ic" NAME="SolutionTest Coverage Results" MODIFIED="1582660207277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Array.Solution.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/G4G$test_checkNull.ic" NAME="test.checkNull Coverage Results" MODIFIED="1579132124589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LinkedList.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/G4G$test.ic" NAME="test Coverage Results" MODIFIED="1579132552294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LinkedList.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/VendingMachine/LoggingServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/VendingMachine/MechanicalServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/VendingMachine/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/VendingMachine/PaymentMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/VendingMachine/PaymentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/VendingMachine/VendingMachineFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/VendingMachine/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/AccountStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/CompactSpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/Electric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/EntryPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/ExitPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/HandicappedSpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/LargeSpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/MotorBike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/MotorBikeSpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/ParkingAttendant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/ParkingDisplayBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/ParkingFloor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="85" column="35" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/ParkingLot2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-668">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/ElectricSpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/ParkingSpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/ParkingTicketStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/SpotType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/ParkingLot2/VehicleType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeGame2/CellType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeGame2/FactorySnakePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeGame2/FoodInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeGame2/FoodService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Game2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="42" column="41" lean-forward="true" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeGame2/Snake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeAndLadder/Snake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeAndLadder/SnakeAndLadderBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/SnakeAndLadder/SnakeAndLadderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1148">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemDesign/LibraryManagementSystem/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Itesting2/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Itesting2/test35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Itesting2/test34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Itesting2/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Itesting2/test33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

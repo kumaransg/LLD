@@ -1,0 +1,12 @@
+# database config
+spring.datasource.url: jdbc:h2:mem:h2db
+spring.h2.console.enabled: true
+#spring.jpa.show-sql: true
+
+# app config
+app-config:
+  score_constant:
+    low: 50
+    medium: 30
+    high: 0
+  contestQuestionAssignment: all_questions # expected value: all_questions or random_questions

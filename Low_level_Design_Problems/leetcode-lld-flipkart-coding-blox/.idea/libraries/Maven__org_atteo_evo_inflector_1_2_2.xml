@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.atteo:evo-inflector:1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

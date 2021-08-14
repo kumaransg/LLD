@@ -1,0 +1,19 @@
+
+_squid:S1075&"ARefactor your code to get this URI from a customizable parameter.(ÑËô‚8‘ÒúÂ˜.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Õ¬¾8æâß¶˜.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(»â¼¨üÿÿÿÿ8¤Î’¼˜.
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(¨Õ¬¾8¡”à¶˜.
+nsquid:S1192"PDefine a constant instead of duplicating this literal "Sending message" 3 times.(¨Õ¬¾8¡”à¶˜.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨‘·îúÿÿÿÿ8¯¢¢¼˜.
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(éˆ·¯
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÜÅÜêýÿÿÿÿ8¸Ï¢¼˜.
+1squid:S1220""Move this file to a named package.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Õ¬¾8Þýß¶˜.
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ž¿ûÂ˜.
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8ž¿ûÂ˜.

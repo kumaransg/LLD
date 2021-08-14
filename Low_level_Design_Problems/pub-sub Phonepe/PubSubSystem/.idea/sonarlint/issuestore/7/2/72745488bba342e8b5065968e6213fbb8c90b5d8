@@ -1,0 +1,6 @@
+
+[squid:S1854*"8Remove this useless assignment to local variable "temp".(ĞÅşúÿÿÿÿ8¸ŞÈ´˜.
+Dsquid:S1659"&Declare "capacity" on a separate line.(¨…Üå8¯½´˜.
+1squid:S1220""Move this file to a named package.
+Esquid:S1659""Declare "rear" on a separate line.(Îóêøıÿÿÿÿ8ÅØ¹´˜.
+Lsquid:S1481*")Remove this unused "temp" local variable.(ĞÅşúÿÿÿÿ8¸ŞÈ´˜.

@@ -1,0 +1,4 @@
+
+Œ"squid:ClassVariableVisibilityCheck"XMake COMMAND_NAME a static final constant or non-public and provide accessors if needed.(ýÝñ8ÎÑ° Þ.
+Osquid:S1444"2Make this "public static COMMAND_NAME" field final(ýÝñ8ÎÑ° Þ.
+tsquid:S3008"WRename this field "COMMAND_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÝñ8ÎÑ° Þ.

@@ -1,0 +1,41 @@
+plugins {
+	id 'org.springframework.boot' version '2.3.4.RELEASE'
+	id 'io.spring.dependency-management' version '1.0.10.RELEASE'
+	id 'java'
+}
+
+group = 'lowleveldesign'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-data-cassandra'
+//	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+//	implementation 'org.springframework.boot:spring-boot-starter-data-neo4j'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	compileOnly 'org.projectlombok:lombok'
+	// https://mvnrepository.com/artifact/com.datastax.cassandra/cassandra-driver-core
+//	compile group: 'com.datastax.cassandra', name: 'cassandra-driver-core', version: '2.1.9', ext: 'pom'
+//	runtimeOnly 'org.postgresql:postgresql'
+	// https://mvnrepository.com/artifact/com.google.code.gson/gson
+	compile group: 'com.google.code.gson', name: 'gson', version: '2.8.6'
+	annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
+	annotationProcessor 'org.projectlombok:lombok'
+	testImplementation('org.springframework.boot:spring-boot-starter-test') {
+		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+	}
+}
+
+test {
+	useJUnitPlatform()
+}

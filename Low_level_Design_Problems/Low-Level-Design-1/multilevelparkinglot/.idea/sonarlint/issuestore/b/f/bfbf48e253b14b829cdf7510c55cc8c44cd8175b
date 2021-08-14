@@ -1,0 +1,6 @@
+
+ssquid:S3008"WRename this field "COMMAND_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¤²øÿÿÿÿ
+¤squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ§Ë«ÿÿÿÿÿ8úñÄ¢Ş.
+Nsquid:S1444"2Make this "public static COMMAND_NAME" field final(´¤²øÿÿÿÿ
+asquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ğ¨ãûÿÿÿÿ8ÿ­•¤Ş.
+‹"squid:ClassVariableVisibilityCheck"XMake COMMAND_NAME a static final constant or non-public and provide accessors if needed.(´¤²øÿÿÿÿ

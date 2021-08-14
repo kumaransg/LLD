@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jakarta.annotation:jakarta.annotation-api:1.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

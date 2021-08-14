@@ -1,0 +1,15 @@
+spring:
+  data:
+    cassandra:
+      cluster-name: Test Cluster
+      keyspace-name: facebook
+      port: 9042
+      contact-points:
+        - 127.0.0.1
+      connect-timeout-millis: 10000ms
+      read-timeout-millis: 10000ms
+      connect-timeout: 10000ms
+      read-timeout: 10000ms
+      pool.pool-timeout: 10000ms
+      consistency-level: quorum
+      serial-consistency-level: quorum

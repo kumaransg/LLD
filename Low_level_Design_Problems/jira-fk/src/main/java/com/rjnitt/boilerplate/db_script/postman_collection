@@ -1,0 +1,301 @@
+{
+	"info": {
+		"_postman_id": "8a82f957-be55-4ff2-8127-efaec315d74e",
+		"name": "Jira_Local",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "TEST",
+			"item": [
+				{
+					"name": "HEALTHCHECK",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{JIRA_URL}}/healthcheck",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"healthcheck"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "TASK",
+			"item": [
+				{
+					"name": "GET DASHBOARD",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{JIRA_URL}}/task/dashboard?sprintId=1",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"task",
+								"dashboard"
+							],
+							"query": [
+								{
+									"key": "sprintId",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET TASK DETAIL",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{JIRA_URL}}/task/get-detail?taskId=1",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"task",
+								"get-detail"
+							],
+							"query": [
+								{
+									"key": "taskId",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET  DELAY TASK",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{JIRA_URL}}/task/delay?sprintId=1",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"task",
+								"delay"
+							],
+							"query": [
+								{
+									"key": "sprintId",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET  ASSIGN TASK",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{JIRA_URL}}/task/assign?userId=2",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"task",
+								"assign"
+							],
+							"query": [
+								{
+									"key": "userId",
+									"value": "2"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET  DISABLE TASK",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{JIRA_URL}}/task/disable-task?sprintId=1",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"task",
+								"disable-task"
+							],
+							"query": [
+								{
+									"key": "sprintId",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CREATE TASK",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n        \n        \"title\": \"task-9\",\n        \"description\": \"new-descccc\",\n        \"dueDate\": 1568012362000,\n        \"assigneeId\": 3,\n        \"taskStatus\": \"TO_DO\",\n        \"issueType\": \"FEATURE\",\n        \"createdBy\": 1,\n        \"sprintId\": 1\n    }"
+						},
+						"url": {
+							"raw": "{{JIRA_URL}}/task/create",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"task",
+								"create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UPDATE TASK",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n        \"id\" : 14,\n        \"title\": \"task-14\",\n        \"description\": \"a-new-descccc\",\n        \"dueDate\": 1568012362000,\n        \"assigneeId\": 3,\n        \"taskStatus\": \"TO_DO\",\n        \"issueType\": \"BUG\",\n        \"createdBy\": 1,\n        \"sprintId\": 1\n    }"
+						},
+						"url": {
+							"raw": "{{JIRA_URL}}/task/update",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"task",
+								"update"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DISABLE TASK",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"id\" : 15\n}"
+						},
+						"url": {
+							"raw": "{{JIRA_URL}}/task/disable",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"task",
+								"disable"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Sprint",
+			"item": [
+				{
+					"name": "CREATE SPRINT",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n        \n       \n    \"name\": \"sprint-2\"\n    }"
+						},
+						"url": {
+							"raw": "{{JIRA_URL}}/sprint/create",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"sprint",
+								"create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET SPRINT DETAIL",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{JIRA_URL}}/task/get-detail?taskId=1",
+							"host": [
+								"{{JIRA_URL}}"
+							],
+							"path": [
+								"task",
+								"get-detail"
+							],
+							"query": [
+								{
+									"key": "taskId",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
