@@ -1,1 +1,0 @@
-![alt text](Amazon_Flipkart System Design.png)
