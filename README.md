@@ -1,5 +1,40 @@
+# Low level Design / Machine Coding Question Collections
+<br />
+---
 
-#### list of LLD problem which are asked during machine coding rounds from flipkart, swiggy, cleartrip, navi and more, check the packages to more about them.
+### What is Machine Coding Round ?
+<br />
+
+> Machine Coding Round has become very popular interview round in most Product and startup companies like Flipkart, Cleartrip, navi and Udaan,the way the round is structured is
+ the candidate will be provided with a Problem statement and the minimum set of features which needs to implemented within the 90 min window period,
+ we as candidate need to identity the data models, the service interfaces which will be consumed by the clients and other set of functions and classes, we should be able to present the same to the panel with are design choices / design patterns being made / used and the complete working code.
+
+<br />
+<br />
+
+### What is the purpose behind this LLD repo ?
+> During my recent Preparation, found out that there was no single resources where we get a collections of all the questions and the corresponding Answers,
+so currently updating the repo with all the materials I found out from the web and the Questions which has been asked during my interview.
+feel free to contribute any questions you have got during your recent interview.There other useful YT channel and Git repo
+which are attached in the resources section.
+
+<br />
+<br />
+
+### What is target Audience, do all companies ask ?
+> If you are currently targeting/looking out for any SDE - I,II opportunities.
+<br />
+> It totally depends on the company you interviewing with, you can check with the HR if they evaluate via machine coding round,
+but certain companies do ask a object oriented design round where they focus only on one particular feature and DB design as well, so its good get practiced
+with few problems beforehand.
+
+<br />
+
+---
+
+#### Below are the list of LLD problem which are asked during my machine coding rounds from tech companies and the resources I collected.
+<br />
+
 
 ##### Note : page is under construction
 ---
