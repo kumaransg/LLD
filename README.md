@@ -23,8 +23,7 @@ which are attached in the resources section.
 
 ### What is target Audience, do all companies ask ?
 > If you are currently targeting/looking out for any SDE - I,II opportunities.
-<br />
-> It totally depends on the company you interviewing with, you can check with the HR if they evaluate via machine coding round,
+It totally depends on the company you interviewing with, you can check with the HR if they evaluate via machine coding round,
 but certain companies do ask a object oriented design round where they focus only on one particular feature and DB design as well, so its good get practiced
 with few problems beforehand.
 
