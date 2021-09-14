@@ -10,7 +10,7 @@
 
 > Machine Coding Round has become very popular interview round in most Product and startup companies like Flipkart, Cleartrip, navi and Udaan,the way the round is structured is
  the candidate will be provided with a Problem statement and the minimum set of features which needs to implemented within the 90 min window period,
- we as candidate need to identity the data models, the service interfaces which will be consumed by the clients and other set of functions and classes, we should be able to present the same to the panel with are design choices / design patterns being made / used and the complete working code.
+ we as a candidate need to identity the data models, the service interfaces which will be consumed by the clients and other set of functions and classes, we should be able to present the same to the panel with are design choices / design patterns being made / used and the complete working code.
 
 <br />
 <br />
@@ -38,7 +38,7 @@ with few problems beforehand.
 <br />
 
 
-##### Note : page is under construction
+##### Note : page is under construction, you can click on the individual packages to view all the questions and solutions.
 ---
 
 |                                Low Level Design Question <br></br>                                	|                                    Question Link to PDF / Drive <br></br>                                   	|         Company Asked<br></br>         	|                   Credits to author <br></br>                  	|
