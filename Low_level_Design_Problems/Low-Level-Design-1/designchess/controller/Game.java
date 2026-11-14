@@ -20,7 +20,7 @@ import java.util.Scanner;
  * game moves, which player has the current turn, and the final result of the game.
  *
  * https://massivetechinterview.blogspot.com/2015/07/design-chess-game-using-oo-principles.html
- * https://www.educative.io/courses/grokking-the-object-oriented-design-interview/JP7BXYkj3DK
+ * https://www.designgurus.io/course-play/grokking-the-object-oriented-design-interview/doc/design-chess
  */
 public class Game {
     private Player[]   players;
